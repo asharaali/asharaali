@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Pharmacy × Data × Business</b><br>
-  Future PharmD/MBA · Building at the intersection of healthcare, code, and ownership
+  Aspiring PharmD/MBA · Building at the intersection of healthcare, code, and ownership
 </p>
 
 <p align="center">
