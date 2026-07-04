@@ -15,7 +15,7 @@
 
 ### 🧬 About
 
-Biology / pre-health student turning clinical experience into software. I've logged 1000+ hours as a pharmacy intern — GLP-1s, compounding, workflow, Medicaid outreach — and I build tools that solve the problems I see behind the counter. When I'm not coding I'm running ops for two family businesses and co-leading a cancer foundation.
+Biology / pre-health student turning clinical experience into software. I've logged over 1000 hours as a pharmacy intern managing GLP-1s, compounding, workflow, and Medicaid outreach, along with building tools that solve the problems I see behind the counter.
 
 - 🎯 **Focus:** GLP-1 / incretin space, specialty & compounding pharmacy, healthcare data
 - 🚀 **Long game:** pharmacy ownership + pharma/biotech leadership
@@ -46,11 +46,6 @@ Biology / pre-health student turning clinical experience into software. I've log
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
-
----
-### 🌆 My Contributions in 3D
-
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
 
 ---
 ### 📊 GitHub Stats
