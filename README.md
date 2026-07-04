@@ -48,7 +48,11 @@ Biology / pre-health student turning clinical experience into software. I've log
 </p>
 
 ---
+### 🌆 My Contributions in 3D
 
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">
