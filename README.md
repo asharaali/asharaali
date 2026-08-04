@@ -15,7 +15,7 @@
 
 ### 🧬 About
 
-Biology / pre-health student turning clinical experience into software. I've logged over 1000 hours as a pharmacy intern managing GLP-1s, compounding, workflow, and Medicaid outreach, along with building tools that solve the problems I see behind the counter.
+Biology / pre-health student turning clinical experience into software. I've logged over 1000 hours interning and working at pharmacies (independents and retail) managing GLP-1s, compounding, workflow, and Medicaid outreach, along with building tools that solve the problems I see behind the counter.
 
 - 🎯 **Focus:** GLP-1 / incretin space, specialty & compounding pharmacy, healthcare data
 - 🚀 **Long game:** pharmacy ownership + pharma/biotech leadership
@@ -32,6 +32,7 @@ Biology / pre-health student turning clinical experience into software. I've log
 | 📊 **Incretin Pipeline Analysis** | Marketed vs. clinical-trial weight-loss/A1c drugs, live ClinicalTrials.gov data |
 | 🧪 **ALL Toxicity ML** | ML models predicting MTX/6-MP toxicity in pediatric leukemia (SHAP interpretability) |
 | 📈 **Alpha Markets AI** | Prediction-market edge engine — FastAPI + live odds data |
+| ☁️ **Cloud Based Solutions** | Solutions to help combat issues with international data and file transfer |
 
 ---
 
