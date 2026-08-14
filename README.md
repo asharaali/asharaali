@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pharmacy-1500%2B%20intern%20hours-2ea44f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pharmacy-1500%2B%20hours-2ea44f?style=for-the-badge">
   <img src="https://img.shields.io/badge/Track-PharmD%2FMBA-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Founder-Healthcare%20%2B%20Commerce-orange?style=for-the-badge">
 </p>
@@ -15,7 +15,7 @@
 
 ### 🧬 About
 
-Biology / pre-health student turning clinical experience into software. I've logged over 1000 hours interning and working at pharmacies (independents and retail) managing GLP-1s, compounding, workflow, and Medicaid outreach, along with building tools that solve the problems I see behind the counter.
+Biology / pre-health student turning clinical experience into software. I've logged over 1500 hours interning and working at pharmacies (independents and retail) managing GLP-1s, compounding, workflow, and Medicaid outreach, along with building tools that solve the problems I see behind the counter.
 
 - 🎯 **Focus:** GLP-1 / incretin space, specialty & compounding pharmacy, healthcare data
 - 🚀 **Long game:** pharmacy ownership + pharma/biotech leadership
