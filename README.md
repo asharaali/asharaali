@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pharmacy-1000%2B%20intern%20hours-2ea44f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pharmacy-1500%2B%20intern%20hours-2ea44f?style=for-the-badge">
   <img src="https://img.shields.io/badge/Track-PharmD%2FMBA-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Founder-Healthcare%20%2B%20Commerce-orange?style=for-the-badge">
 </p>
