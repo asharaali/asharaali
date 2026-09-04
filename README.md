@@ -49,13 +49,6 @@ Biology / pre-health student turning clinical experience into software. I've log
 </p>
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asharaali&theme=tokyo-night&hide_border=true&area=true">
-</p>
-
----
 
 <p align="center">
   <i>"Own the pharmacy. Build the tools. Take care of the people."</i>
